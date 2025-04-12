@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 <a href="#">
-    <img src="./assets/leetcode.svg" alt="Logo" width="80" height="80">
+    <img src="./assets/sitepoint.svg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Common templates for projects</h3>
 
