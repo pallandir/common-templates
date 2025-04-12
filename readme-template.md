@@ -29,7 +29,7 @@ Happy coding! 🚀
 
 <!-- GETTING STARTED -->
 
-## 🚀 Getting Started
+## Getting Started
 
 - [Briefly explain how the project is organized. Example:]
 - [Optional:] Additional content (e.g., extra practice, experiments) can be found in the `[YOUR_DIRECTORY_NAME/]` directory.
@@ -42,7 +42,7 @@ Stay consistent, and track your growth over time! 💡
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [x] [Initial Milestone or Goal]
 - [x] [Another Completed Task]
@@ -55,7 +55,7 @@ Feel free to suggest more ideas or contribute!
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the `[LICENSE_NAME]` License.  
 See [`LICENSE`](./LICENSE) for more information.
@@ -64,7 +64,7 @@ j
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Thanks to these great resources:
 
