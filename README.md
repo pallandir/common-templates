@@ -28,8 +28,9 @@ Consistency is the key. All project I'm part of should always look the same so i
 ## Roadmap
 
 - [x] Add issue template
-- [ ] Add README template
-- [ ] Add PR template
+- [x] Add README template
+- [x] Add PR template
+- [x] Add Epic template
 - [ ] Add git global config
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
