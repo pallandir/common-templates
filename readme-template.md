@@ -57,9 +57,8 @@ Feel free to suggest more ideas or contribute!
 
 ## License
 
-Distributed under the `[LICENSE_NAME]` License.  
-See [`LICENSE`](./LICENSE) for more information.
-j
+This repository and all its content is under `GNU General Public License v3.0`.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
