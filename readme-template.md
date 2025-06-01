@@ -17,7 +17,7 @@
   </p>
 </div>
 
-## About this repository
+## About this project
 
 [Explain the purpose of the repo. For example:  
 This repository is a personal collection of algorithm and data structure problems solved from platforms like LeetCode, Codeforces, HackerRank, and others.  
