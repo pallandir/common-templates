@@ -19,15 +19,13 @@
 
 ## About this project
 
-[Explain the purpose of the repo. For example:  
-This repository is a personal collection of algorithm and data structure problems solved from platforms like LeetCode, Codeforces, HackerRank, and others.  
+[Explain the purpose of the repo. For example:
+This repository is a personal collection of algorithm and data structure problems solved from platforms like LeetCode, Codeforces, HackerRank, and others.
 It includes multiple solutions (naive and optimized) with notes and insights.]
 
 Happy coding! 🚀
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## Getting Started
 
@@ -40,8 +38,6 @@ Stay consistent, and track your growth over time! 💡
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
-
 ## Roadmap
 
 - [x] [Initial Milestone or Goal]
@@ -53,15 +49,11 @@ Feel free to suggest more ideas or contribute!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
-
 ## License
 
 This repository and all its content is under `GNU General Public License v3.0`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
 
 ## Acknowledgments
 
