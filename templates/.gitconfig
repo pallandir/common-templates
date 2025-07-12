@@ -1,0 +1,22 @@
+[user]
+  name = name
+  email = email
+[core]
+  editor = nvim
+[alias]
+  st = status
+  ci = commit
+  sw = switch
+  last = log -1 HEAD
+  lg = log --graph --pretty=format:'%C(auto)%h %Cblue%ad%Creset %Cgreen%s%Creset %C(white)- %an%Creset' --date=short
+  graph = log --oneline --graph --decorate --all
+[push]
+  default = current
+  autoSetupRemote = true
+[fetch]
+  prune = true
+[init]
+  defaultBranch = main
+[color]
+  ui = auto
+
