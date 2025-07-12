@@ -19,7 +19,7 @@
 
 ## About this repository
 
-Consistency is the key. All project I'm part of should always look the same so it's easier to follow. These templates will help writing consistent documentation on all repositories I work. 
+Consistency is the key. All project I'm part of should always look the same so it's easier to follow. These templates will help writing consistent documentation on all repositories I work.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -31,7 +31,7 @@ Consistency is the key. All project I'm part of should always look the same so i
 - [x] Add README template
 - [x] Add PR template
 - [x] Add Epic template
-- [ ] Add git global config
+- [x] Add git global config
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,4 +42,3 @@ Consistency is the key. All project I'm part of should always look the same so i
 This repository and all its content is under `GNU General Public License v3.0`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
